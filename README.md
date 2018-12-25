@@ -4,10 +4,10 @@
 
 **lab2**: [gRPC Calculator](https://github.com/harshithreddyhr9/Enterprise_Distributed_Systems/blob/master/lab2.md)
 
-**lab3**: UDP
-         * A connectionless protocol
-         * Quick way of communication
-         * Datagram delivery not guarenteed
+**lab3**: UDP  
+         * A connectionless protocol  
+         * Quick way of communication  
+         * Datagram delivery not guarenteed  
 
 **Assignment 1**: [Spartan Messenger using gRPC](https://github.com/harshithreddyhr9/Enterprise_Distributed_Systems/blob/master/Assignment%201%20instructions.md)
 
