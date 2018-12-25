@@ -15,7 +15,12 @@
  
 **Assignment 3**: [Federated Byzantine Agreement](https://github.com/harshithreddyhr9/Enterprise_Distributed_Systems/blob/master/assignment%203.md)
 
-**Quizz**: Python mqtt
+**Quizz**: Python mqtt  
+* The MQTT protocol is a machine-to-machine (M2M)/”Internet of Things” connectivity protocol. 
+* Designed as an extremely lightweight publish/subscribe messaging transport
+* It is useful for connections with remote locations where a small code footprint is required and/or network bandwidth is at a premium.
+
+
 
 **Merkle tree**: Print the merkle trees and find the difference between the two directories structures.
 
@@ -25,4 +30,4 @@
 * Similar to Binary Tree but stores the Hash values of the data instead of the data. 
 * Hashing algorithm used : SHA-256
 * In blockchain, used to check if every server has the same data by comparing the hash value of the root. 
-* If odd number of nodes/transactions are present then the last node/transaction is duplicated and hashed with the original node/transaction up till the you get the root.
+* If odd number of nodes/transactions are present then the last node/transaction is duplicated and hashed with the original node/transaction up till you get the root.
