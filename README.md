@@ -1,4 +1,4 @@
-# CMPE272_Enterprise_Distributed_Systems
+# CMPE273_Enterprise_Distributed_Systems
 
 **lab1**: [Http Synchronous and Asynchronous calls ](https://github.com/harshithreddyhr9/Enterprise_Distributed_Systems/blob/master/lab1.md)
 
